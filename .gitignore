@@ -35,12 +35,13 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
-
 .metadata/.plugins/
 .metadata/
 .metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
 .metadata/.plugins/org.eclipse.core.resources/1.snap
 /metadata/
 metadata
+
+*.xmi
 
 
